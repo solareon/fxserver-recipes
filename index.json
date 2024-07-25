@@ -22,6 +22,13 @@
     },
     {
         "engine": 3,
+        "name": "Overextended Core (Pre-release)",
+        "tags": ["fivem"],
+        "description": "A true developers core written in TypeScript, with a focus on performance and scalability. Minimal resources included",
+        "url": "https://raw.githubusercontent.com/overextended/txAdminRecipe/main/recipe.yaml"
+    },
+    {
+        "engine": 3,
         "name": "CFX Default FiveM",
         "tags": ["fivem"],
         "description": "Just the base resources required to run a FiveM server.",
